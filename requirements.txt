@@ -1,0 +1,7 @@
+streamlit
+huggingface-hub
+pymongo
+Pillow
+streamlit-autorefresh
+streamlit-cookies-manager
+cloudinary
